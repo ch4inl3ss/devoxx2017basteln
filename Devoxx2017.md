@@ -1,5 +1,5 @@
 # Devoxx2017
-
+### meine Vorträge
 
 ## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
@@ -43,3 +43,6 @@ Wenn nein, warum nicht? Selber basteln??
 Apache spark für kleine HTTP-API
 Google GSon
 Wenn ich mvn classpath da reinbekomme ist das wahrscheinlich ein guter weg um randoop ans laufen zu bekommen
+
+## Konsole
+Super-Vortrag. Man konnte sich das nicht merken, daher muss ich da nochmal reinschauen
