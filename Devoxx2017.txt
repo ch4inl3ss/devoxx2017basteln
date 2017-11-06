@@ -1,0 +1,8 @@
+Devoxx2017
+
+Kobalt: Kotlin-written Build -tool
+https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar -- super-Plugin!!!
+
+Kotlin find by lazy-Initialization -- an einer Property 
+val Hallo: String by lazy
+sorgt dafür, dass eine Property erst beim ersten zugriff initialisiert werden
