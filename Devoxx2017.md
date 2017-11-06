@@ -1,7 +1,7 @@
-#Devoxx2017
+# Devoxx2017
 
 
-##Kotlin Deep Dive
+## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
 https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar -- super-Plugin!!!
 
@@ -21,7 +21,7 @@ Kotlin companion object
 Good list of Kotlin Stuff / Libraries:
 https://github.com/KotlinBy/awesome-kotlin
 
-##Neuronal Networks
+## Neuronal Networks
 https://playground.tensorflow.org
 86-100Billion Neurons in the brain
 Perceptrons...
@@ -33,7 +33,7 @@ Coursera? --https://www.coursera.org/
 https://katharinecodes.wordpress.com
 Deeplearning4j
 
-##JShell
+## JShell
 list.stream().map(Optional::ofNullable).flatMap(o->o.map(Stream::of).orElse(Stream.empty())).foreach
 ...-> Das ist gefiltert in java 8
 in 9: 
