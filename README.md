@@ -58,20 +58,28 @@ Ist halt ein weiterer Textprozessor. Ich weiß nicht...
 Leider war der Vortrag für mich nicht besonders hilfreich, da ich leider Einsteiger in dem Thema war, 
 der Vortrag war aber auf ein "Was gibt es neues in der aktuellen Version"...
 
-##Baking a Microservice Pi
+## Baking a Microservice Pi
 Services nach Warcraft-Charaktern benannt
 12 Pies, -
 6 Services, 2 Infrastructure, 4 Clients
-TomEE, Wildfly Storm
+TomEE, Wildfly Storm http://wildfly-swarm.io/
 NGinx / ELK
-Netflix OSS
-Consul
-Tribestream Access Gateway
+Netflix OSS https://github.com/Netflix
+Consul https://www.consul.io/
+Tribestream Access Gateway http://www.tomitribe.com/products/tribestream-api-gateway/
 Hypriot-OS on the PI (for Docker) https://blog.hypriot.com/
-Ansible
+Ansible https://www.ansible.com/
 H2-In Memory-Database
 Warum muss in jeder Microservices-Präsentation eine Microservices-Definition kommen?
+### Wege, um Microservices zu bauen
+Dropwizard http://www.dropwizard.io/1.2.0/docs/
+Lagom https://www.lagomframework.com/
+Vert.x http://vertx.io/
+Spring Boot http://start.spring.io
+MicroProfile https://microprofile.io/
 
+--> MicroProfile in diesem Beispiel, JaxRs, CDI, JSon-P
+Swagger Contract (JSon-Contract for HTTP-APIs)
 
 
 
