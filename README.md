@@ -4,6 +4,7 @@
 ### anbei interessantes:
 http://www.canoo.com/produkte/dolphin-platform-enterprise/?lang=de
 Dolphin - Über mehrere Clienst und einen Controller gesynctes Modell
+API für Websites / Rest / SOAP-APIs https://github.com/OpenFeign/feign
 
 ## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
@@ -80,6 +81,23 @@ MicroProfile https://microprofile.io/
 
 --> MicroProfile in diesem Beispiel, JaxRs, CDI, JSon-P
 Swagger Contract (JSon-Contract for HTTP-APIs)
+für CORS einen Servlet-Filter schreiben...
+Wildfly Swarm baut eine dicke jar aus der War mit JBoss drin.
+
+Es gibt ein Docker-Image, um sich ein lokales Docker-Repository aufzusetzen
+->In deren Registry in dem Beispiel haben sie ihre Docker-Images nicht versioniert, sondern immer überschrieben, damit sie ihre Registry nicht immer weiter zumüllen
+
+####Logging-Tools
+Syslog https://syslog-ng.org/
+Fluentd https://www.fluentd.org/
+Splunk https://www.splunk.com/en_us/download/splunk-enterprise.html?ac=ga_nth_brand_main_exact&_kk=splunk&_bk=splunk&_bt=224754424046&_bm=e&_bn=g&gclid=EAIaIQobChMI9oygtZas1wIVyKQYCh3hkgPxEAAYASAAEgIOjfD_BwE
+Flume https://flume.apache.org/
+Logmatic.io https://logmatic.io/
+ELK
+
+
+Gelf-- Graylog Extended Log Format, Logstache und Docker haben Anbindung http://docs.graylog.org/en/2.3/pages/gelf.html
+
 
 
 
