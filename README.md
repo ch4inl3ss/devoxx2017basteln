@@ -1,5 +1,9 @@
 # Devoxx2017
-### meine Vorträge
+### meine besuchten Vorträge
+
+### anbei interessantes:
+http://www.canoo.com/produkte/dolphin-platform-enterprise/?lang=de
+Dolphin - Über mehrere Clienst und einen Controller gesynctes Modell
 
 ## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
@@ -32,6 +36,7 @@ Unsupervised learning...
 Coursera? --https://www.coursera.org/
 https://katharinecodes.wordpress.com
 Deeplearning4j
+Eine der einfachsten und verständlichsten Erklärungen für mich.
 
 ## JShell
 list.stream().map(Optional::ofNullable).flatMap(o->o.map(Stream::of).orElse(Stream.empty())).foreach
@@ -46,3 +51,55 @@ Wenn ich mvn classpath da reinbekomme ist das wahrscheinlich ein guter weg um ra
 
 ## Konsole
 Super-Vortrag. Man konnte sich das nicht merken, daher muss ich da nochmal reinschauen
+
+## AsciiDoctor
+Hm. Einmal neues Featureset. 
+Ist halt ein weiterer Textprozessor. Ich weiß nicht...
+Leider war der Vortrag für mich nicht besonders hilfreich, da ich leider Einsteiger in dem Thema war, 
+der Vortrag war aber auf ein "Was gibt es neues in der aktuellen Version"...
+
+##Baking a Microservice Pi
+Services nach Warcraft-Charaktern benannt
+12 Pies, -
+6 Services, 2 Infrastructure, 4 Clients
+TomEE, Wildfly Storm
+NGinx / ELK
+Netflix OSS
+Consul
+Tribestream Access Gateway
+Hypriot-OS on the PI (for Docker) https://blog.hypriot.com/
+Ansible
+H2-In Memory-Database
+Warum muss in jeder Microservices-Präsentation eine Microservices-Definition kommen?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
