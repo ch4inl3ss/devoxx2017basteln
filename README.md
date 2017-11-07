@@ -1,10 +1,13 @@
 # Devoxx2017
-### meine besuchten Vorträge
 
 ### anbei interessantes:
 http://www.canoo.com/produkte/dolphin-platform-enterprise/?lang=de
 Dolphin - Über mehrere Clienst und einen Controller gesynctes Modell
 API für Websites / Rest / SOAP-APIs https://github.com/OpenFeign/feign
+
+### meine besuchten Vorträge
+
+
 
 ## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
@@ -87,7 +90,7 @@ Wildfly Swarm baut eine dicke jar aus der War mit JBoss drin.
 Es gibt ein Docker-Image, um sich ein lokales Docker-Repository aufzusetzen
 ->In deren Registry in dem Beispiel haben sie ihre Docker-Images nicht versioniert, sondern immer überschrieben, damit sie ihre Registry nicht immer weiter zumüllen
 
-####Logging-Tools
+####sLogging-Tools
 Syslog https://syslog-ng.org/
 Fluentd https://www.fluentd.org/
 Splunk https://www.splunk.com/en_us/download/splunk-enterprise.html?ac=ga_nth_brand_main_exact&_kk=splunk&_bk=splunk&_bt=224754424046&_bm=e&_bn=g&gclid=EAIaIQobChMI9oygtZas1wIVyKQYCh3hkgPxEAAYASAAEgIOjfD_BwE
@@ -98,6 +101,20 @@ ELK
 
 Gelf-- Graylog Extended Log Format, Logstache und Docker haben Anbindung http://docs.graylog.org/en/2.3/pages/gelf.html
 
+Aussage im Vortrag: Eureka fanden sie schwer aufzusetzen, daher Consul. Rein optisch gefällt mir das sehr gut.
+
+## Cloud native Java
+An jedem punkt sind 0.7% der welt betrunken (und schreiben php
+
+http://bellard.org/linux.js
+http://github.com/mraible/cloud-native-pwas
+lighthouse for progressive web apps... checker-seite
+https://realfavicongenerator.net for favicons
+Okta für oauth2.. klingt interessant. geht aber auch mit spring security 5
+ist auch so in jhipster
+übrigens ein schöner trick, dass jemand bier-facts vorliest, wenn der andere gerade in der demo hängt
+Mit all den fertigen templates i call cheater!
+http://www.21-points.com -- health app
 
 
 
