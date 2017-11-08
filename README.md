@@ -55,6 +55,26 @@ Wenn ich mvn classpath da reinbekomme ist das wahrscheinlich ein guter weg um ra
 
 ## Konsole
 Super-Vortrag. Man konnte sich das nicht merken, daher muss ich da nochmal reinschauen
+###Was es schon gab:
+cmatrix -Matrix
+gnuski -Ski-Spiel
+bastet -Tetris 
+figlet -banner in schön (Provi-Rocks)
+ _____________________________________________________________   </br>
+/  _   _     _       _                                   _ _  \  </br>
+| | |_| |__ (_)___  (_)___   ___  ___     ___ ___   ___ | | | |  </br>
+| | __| '_ \| / __| | / __| / __|/ _ \   / __/ _ \ / _ \| | | |  </br>
+| | |_| | | | \__ \ | \__ \ \__ \ (_) | | (_| (_) | (_) | |_| |  </br>
+|  \__|_| |_|_|___/ |_|___/ |___/\___/   \___\___/ \___/|_(_) |  </br>
+\                                                             /  </br>
+ -------------------------------------------------------------   </br>
+        \   ^__^												 </br>
+         \  (oo)\_______										 </br>	
+            (__)\       )\/\									 </br>										
+                ||----w |										 </br>	
+                ||     ||										 </br>
+						
+
 
 ## AsciiDoctor
 Hm. Einmal neues Featureset. 
