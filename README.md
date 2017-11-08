@@ -54,7 +54,6 @@ Google GSon
 Wenn ich mvn classpath da reinbekomme ist das wahrscheinlich ein guter weg um randoop ans laufen zu bekommen
 
 ## Konsole
-Super-Vortrag. Man konnte sich das nicht merken, daher muss ich da nochmal reinschauen
 ###Was es schon gab:
 cmatrix -Matrix
 gnuski -Ski-Spiel
@@ -76,12 +75,17 @@ figlet -banner in schön (Provi-Rocks)
 	                ||----w |
 	                ||     ||
 </pre>
-
+^^mit lolcat kommt die Kuh auch noch in Regenbogenfarben!
+ncurses (alte C-API für Terminal-Krams)
+cursbox- sein wrapp/rewrite für ncurses (Python)
+Almonds - zeigt Mandelbrot-Fraktale an und kann sie für Hintergründe rendern
+surveyor - hacker movie traceroute
+https://github.com/Tenchi2xh - seine github-seites
 
 ## AsciiDoctor
 Hm. Einmal neues Featureset. 
 Ist halt ein weiterer Textprozessor. Ich weiß nicht...
-Leider war der Vortrag für mich nicht besonders hilfreich, da ich leider Einsteiger in dem Thema war, 
+Leider war der Vortrag für mich nicht besonders hilfreich, da ich eher Einsteiger in dem Thema war, 
 der Vortrag war aber auf ein "Was gibt es neues in der aktuellen Version"...
 
 ## Baking a Microservice Pi
