@@ -186,6 +186,29 @@ Mit Asciidoctor kann man dann verscihedenste Outputs generieren, html, pdf, etc.
 kommt von github, also wahrscheinlich auch kompatibel
 Oreilly benutzt asciidoc für ihre bücher.
 Wenn meine Doku jetzt also Code ist, wie schreibe ich dann Testfälle für meine Doku?
+Ich hätte aber gerne auch so eine art Postit-Notiz die ich in der IDE habe.
+
+
+## Junit-5
+@marcphillip (logmein (hamachi?))
+junit 4 über 10 jahre alt
+@Rule / @Classrule in Junit, Assumptions?
+rückwärtskompatibel
+http://junit.org/junit5/
+3 teile:
+platform, jupiter, vintage
+es gibt die Möglichkeit, gegen die platform eigene spezifizierungen zum schriebn von tests zu schreiben.
+davon gibt es auch schon einige z.b. für kotlin.
+Was ist mit Mockito? / anderen Frameworks basierend auf JUnit? Was ist mit den Hamcrest-Matchern? Junit-Params?
+@Displayname macht es einem tatsächlich möglich, den Testfällen richtige Sätze als output zu geben.
+Man kann Tests an Default-Methoden in Interfaces schreiben.
+Mit @Nested und @Displayname macht das ganze auch sinn, weil man dann die fachlichen Namen verschachteln kann.
+@Parameterized ersetzt Junit-Params anscheinend ganz ordentlich. Wie vollständig der Ersatz ist, muss man sich
+aber noch angucken.
+Bei den nested / parameterized Tests weiß ich immer noch nicht ob das jum to source bei eclipse funktioniert.
+@Testfactory erlaubt mir mit Sourcode tests zu erzeugen, die dann ausgeführt werden. Das macht Dynamic-Tests.
+dynamicTest nimmt dann das was als test ausgeführt werden soll als lambda entgegen.
+
 
 
 
