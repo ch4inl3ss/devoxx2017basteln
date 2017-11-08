@@ -4,10 +4,10 @@
 http://www.canoo.com/produkte/dolphin-platform-enterprise/?lang=de
 Dolphin - Über mehrere Clienst und einen Controller gesynctes Modell
 API für Websites / Rest / SOAP-APIs https://github.com/OpenFeign/feign
+Kotlinrepl fürs terminal: kotlinc
+Kalender-Vaadin -Plugin mit Vaadin 7 open source
 
 ### meine besuchten Vorträge
-
-
 
 ## Kotlin Deep Dive
 Kobalt: Kotlin-written Build -tool
@@ -143,14 +143,49 @@ Mit all den fertigen templates i call cheater!
 http://www.21-points.com -- health app
 
 
+## IntelliJ IDEA
+Update regularly (Jetbrains toolbar for all tools)
+cmd shift o für find and open file
+find action popup: cmd shift a
+window->HELP->productivity guide
+nachfragen, ob die shortcuts für nationale keyboardlayouts noch korrigiert werden...
+settings-keymap-um eigene shortcuts zu bauen
+es gibt einen presentation-assistent als plugin
+Es gibt ein Cloudsync für Settings über Jetbrains Account
+TODO_ Vielleicht nochmal ansehen, war aber anstrengend zuzuhören._
 
+## Softskills for Software-Developers
+1. Always be critical (5 whys)
+don't tell everything. no unit-tests are not an option, so don't point it out!
+Book-Reading-Club für die Arbeit? nette Idee.
+DDD-Konzept: man braucht eine gleiche Sprache mit der gleichen, fest definierten Sprache
+Social-Engeneering-Trick: Erstmal was kleines für den anderen tun, dann später nach einem Gefallen fragen
 
+## Deeplearning4J 
+Raspberry Pi Zero- Cluster-Seite
+Projekt Malmo für Minecraft und AI
+TODO: Nochmal ansehen, nachpflegen
 
-
-
-
-
-
+## Documentation as Code
+css zen garden http://www.csszengarden.com/ 
+docbook http://docbook.org/ -> XML-Dialekt zum schreiben von Büchern
+AsciiDoc... yet again... https://github.com/zuckschwerdt/asciidoc.tmbundle
+Einen Satz per Zeile. Weil Asciidoc das nicht interessiert.
+kann github für das Readme asciidoc?
+Asciidoc scheint wirklich stark mit Markdown zu konkurrieren.
+Variablen!! :variable: inhalt -> {variable} -> verwendung im Text
+Was ich aber gerne hätte wäre nicht, dass die Dokumentation aus Code erzeugt wird,
+sondern, dass die Dokumentation mit durch den Code entsteht. Das ist leider nicht wirklich der Fall.
+Jedenfalls entsteht der Eindruck, nach dem, was ich hier gesehen habe.
+-nur plaintext-files. das gefällt mir.
+remy sharp - https://remysharp.com soll interessant sein
+-----> github-repository enthält die dateien, die auf der Website gerendert dargestellt werden.
+Wirklich coole Idee.
+Man kann in mehreren Dateien arbeiten und die dateien dann includen!
+Mit Asciidoctor kann man dann verscihedenste Outputs generieren, html, pdf, etc.
+kommt von github, also wahrscheinlich auch kompatibel
+Oreilly benutzt asciidoc für ihre bücher.
+Wenn meine Doku jetzt also Code ist, wie schreibe ich dann Testfälle für meine Doku?
 
 
 
