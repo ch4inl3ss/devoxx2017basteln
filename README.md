@@ -210,10 +210,19 @@ Bei den nested / parameterized Tests weiß ich immer noch nicht ob das jum to so
 dynamicTest nimmt dann das was als test ausgeführt werden soll als lambda entgegen.
 
 
-
-
-
-
+## Lazy Java
+@mariofusco
+Um Werte lazy an Methoden zu übergeben, kann man einfach den Supplier für den Value statt des values selber übergeben
+Dafür reicht es schon, wenn mann einfach dann im aufruf ()-> davor schreibt
+nichts ist schneller, als nichts zu tun
+lazyness erlaubt es einen infiniten stream zu erstellen
+Tail Call Optimization tut einfach nur den letzten aufruf der methode nicht mehr auf den stack. 
+Hat kotlin tail call optimization? -> JA! https://kotlinlang.org/docs/reference/functions.html
+In Java statt Tail call optimization gibt es die Trampoline method https://medium.com/@johnmcclean/trampolining-a-practical-guide-for-awesome-java-developers-4b657d9c3076
+eine Monade ist ein Wert, der seinen kontext versteckt, mit dem man aber arbeiten kann, unabhängig vom kontext.
+Weitere möglichkeit hier ist dann function-chaining mit .andthen 
+https://medium.com/@johnmcclean/dependency-injection-using-the-reader-monad-in-java8-9056d9501c75
+https://github.com/enelson/java_monads
 
 
 
